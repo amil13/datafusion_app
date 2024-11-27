@@ -24,7 +24,7 @@ To run this application, ensure you have the latest version of **Rust** installe
 2. Navigate to the `datafusion_app` directory and build the app using the following command:
 
    ```bash
-   cargo build.
+   cargo build .
    ```
 
 3. Once built, you can run the application with the following command structure:
